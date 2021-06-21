@@ -27,7 +27,11 @@ Archive:  main.zip
 ```
 
 ## Use
-Use the MiSTer OSD to navigate to Scripts, then choose "DrSeussBeta", select a book, and press enter. Press 7 to exit. 
+Use the MiSTer OSD to navigate to Scripts
+1. <hit escape> choose Scripts
+2. Accept the warning
+3. Choose "DrSeussBeta", select a book, and press enter.
+4. Enjoy the sweet sweet taste of lib tears 
 
 ## Description 
 By now we've all seen the news:<br>
@@ -61,6 +65,3 @@ We hope to include more literature in the near future. **To Kill a Mockingbird**
 <img src="https://github.com/ArcadeHustle/MiSTer_DrSeussReader/blob/main/ToThink.jpg"><br><br>
 <img src="https://github.com/ArcadeHustle/MiSTer_DrSeussReader/blob/main/RanTheZoo.jpg"><br>
 </p>
-
-
-
