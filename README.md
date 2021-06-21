@@ -1,7 +1,7 @@
 # MiSTer_DrSeussReader
-MiSTer FPGA Dr Seuss reader. Preserve books that the left doesn't want you to read, with MiSTer FPGA! This script based "core" will play books from Archive.org on the MiSTer console.<br>
+MiSTer FPGA Dr Seuss reader. Preserve books that the left doesn't want you to read, with MiSTer FPGA! This script based "core" will play banned books from Archive.org on the MiSTer console.<br>
 <p align="center">
-<img src="https://misterfpga.org/download/file.php?avatar=48_1610293528.jpg"><img src="https://pbs.twimg.com/profile_images/970066779526512640/kw45oBWL_400x400.jpg"><img src="https://pbs.twimg.com/profile_images/1180092674872922112/w3l2zzbf_400x400.jpg">
+<img height=120 width=120 src="https://misterfpga.org/download/file.php?avatar=48_1610293528.jpg"><img height=120 width=120 src="https://pbs.twimg.com/profile_images/970066779526512640/kw45oBWL_400x400.jpg"><img height=120 width=120 src="https://pbs.twimg.com/profile_images/1180092674872922112/w3l2zzbf_400x400.jpg">
 </p>
 
 None of this would be possible without the great MiSTerFPGA devs, and Discord mods. Please join us on the Official Discord!<br>
