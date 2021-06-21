@@ -9,7 +9,7 @@ Please join us on the Official Discord!<br>
 <a href=https://discord.gg/4xKVg4XVYn><img src="https://github.com/ArcadeHustle/MiSTer_DrSeussReader/blob/main/Invited.jpg"> </a> <br>
 </p>
 
-# Install
+## Install
 ```
 $ ssh -l root 192.168.1.25
 Password: 
@@ -26,6 +26,10 @@ Archive:  main.zip
 /media/fat/MiSTer_DrSeussReader-main# ./install.sh
 ```
 
+## Use
+Use the MiSTer OSD to navigate to Scripts, then choose "DrSeussBeta", select a book, and press enter. Press 7 to exit. 
+
+## Description 
 By now we've all seen the news:<br>
 **6 Dr. Seuss books won’t be published for racist images**<br>
 https://apnews.com/article/dr-seuss-books-racist-images-d8ed18335c03319d72f443594c174513<br>
