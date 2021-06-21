@@ -1,4 +1,4 @@
-# MiSTer FPGA Dr. Seuss Reader "core"
+# (BETA) MiSTer FPGA Dr. Seuss Reader "core"
 With the MiSTer FPGA Dr. Seuss reader you can enjoy preserved books that the left doesn't want you to read, all from the comfort of your couch! This script based "core" will play banned books from Archive.org on the MiSTer console preserving them digially forever. None of this would be possible without the great MiSTerFPGA devs, and Discord mods. <br>
 <p align="center">
 <img height=120 width=120 src="https://misterfpga.org/download/file.php?avatar=48_1610293528.jpg"><img height=120 width=120 src="https://pbs.twimg.com/profile_images/970066779526512640/kw45oBWL_400x400.jpg"><img height=120 width=120 src="https://pbs.twimg.com/profile_images/1180092674872922112/w3l2zzbf_400x400.jpg">
