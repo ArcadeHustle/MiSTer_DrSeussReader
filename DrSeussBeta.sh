@@ -1,5 +1,5 @@
 #!/bin/sh
-PS3='Want to read a banned Dr Seuss book? '
+PS3='Want to read a banned Dr Seuss book? Press enter for book list, or 7 <enter> to exit'
 books=("CatsQuizzer" "McElligots" "Mulberry" "OnBeyond", "RanTheZoo", "ScrambledEggs", "Quit")
 
 select banned in "${books[@]}"; do
