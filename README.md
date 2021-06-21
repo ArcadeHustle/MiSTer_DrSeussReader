@@ -28,7 +28,7 @@ Archive:  main.zip
 
 ## Use
 Use the MiSTer OSD to navigate to Scripts
-1. <hit escape> choose Scripts
+1. Hit the escape key, Choose Scripts
 2. Accept the warning
 3. Choose "DrSeussBeta", select a book, and press enter.
 4. Enjoy the sweet sweet taste of lib tears 
