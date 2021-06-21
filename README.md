@@ -5,7 +5,9 @@ MiSTer FPGA Dr Seuss reader. Preserve books that the left doesn't want you to re
 </p>
 
 Please join us on the Official Discord!<br>
-<center><a href=https://discord.gg/4xKVg4XVYn><img src="https://github.com/ArcadeHustle/MiSTer_DrSeussReader/blob/main/Invited.jpg"> </a> <br>
+<p align="center">
+<a href=https://discord.gg/4xKVg4XVYn><img src="https://github.com/ArcadeHustle/MiSTer_DrSeussReader/blob/main/Invited.jpg"> </a> <br>
+</p>
 
 By now we've all seen the news:<br>
 6 Dr. Seuss books won’t be published for racist images<br>
