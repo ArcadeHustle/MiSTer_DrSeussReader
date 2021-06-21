@@ -9,6 +9,23 @@ Please join us on the Official Discord!<br>
 <a href=https://discord.gg/4xKVg4XVYn><img src="https://github.com/ArcadeHustle/MiSTer_DrSeussReader/blob/main/Invited.jpg"> </a> <br>
 </p>
 
+# Install
+```
+$ ssh -l root 192.168.1.25
+Password: 
+/root# cd /media/fat/
+/media/fat# wget https://github.com/ArcadeHustle/MiSTer_DrSeussReader/archive/refs/heads/main.zip
+/media/fat# unzip main.zip 
+Archive:  main.zip
+43c1836f67d7fbc247cd2c738f49aee44150fc89
+   creating: MiSTer_DrSeussReader-main/
+   creating: MiSTer_DrSeussReader-main/CatsQuizzer/
+...
+/media/fat# cd MiSTer_DrSeussReader-main
+/media/fat/MiSTer_DrSeussReader-main#
+/media/fat/MiSTer_DrSeussReader-main# ./install.sh
+```
+
 By now we've all seen the news:<br>
 **6 Dr. Seuss books won’t be published for racist images**<br>
 https://apnews.com/article/dr-seuss-books-racist-images-d8ed18335c03319d72f443594c174513<br>
@@ -23,7 +40,7 @@ We've also seen the official response from Dr Seuss Enterprises;<br>
 **Statement from Dr. Seuss Enterprises**<br>
 https://www.seussville.com/statement-from-dr-seuss-enterprises/<br>
 
-This is something that can not stand. These books can NOT be cancelled, and becasue of that we wanted to preserve them with a MiSTer FPGA core. Since an actual core was 100% unnecessary, we've provided a simple script that anyone can use to install viewer, and load the archived banned book library.<br> 
+This is something that can not stand. These books can NOT be cancelled, and becasue of that we wanted to preserve them with a MiSTer FPGA core. Since an actual core was 100% unnecessary, we've provided a simple script that anyone can use to install view, and load the archived banned book library.<br> 
 https://archive.org/details/dr-seuss-banned-books<br>
 
 Just remember, that MiSTerFPGA is commited to all forms of preservation. The following books are included in this Beta release:
