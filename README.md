@@ -23,8 +23,18 @@ We've also seen the official response from Dr Seuss Enterprises;<br>
 **Statement from Dr. Seuss Enterprises**<br>
 https://www.seussville.com/statement-from-dr-seuss-enterprises/<br>
 
-This is something that can not stand. These books can NOT be cancelled, and becasue of that we wanted to preserve them with a MiSTer FPGA core. Since a core was 100% unnecessary, we've provided a simple script that anyone can use to view the archived banned book library.<br> 
+This is something that can not stand. These books can NOT be cancelled, and becasue of that we wanted to preserve them with a MiSTer FPGA core. Since an actual core was 100% unnecessary, we've provided a simple script that anyone can use to install viewer, and load the archived banned book library.<br> 
 https://archive.org/details/dr-seuss-banned-books<br>
+
+Just remember, that MiSTerFPGA is commited to all forms of preservation. The following books are included in this Beta release. 
+* And to Think That I Saw it on Mulberry Street
+* If I Ran The Zoo
+* McElligots Pool
+* On Beyond Zebra
+* Scrambled Eggs Super!
+* The Cat's Quizzer - Are you Smarter than the Cat in the Hat?
+
+We hope to include more literature in the near future. **To Kill a Mockingbird** by Harper Lee, and **Of Mice and Men** by John Steinbeck are considerations for the next beta. Please donate on Patreon for further consideration: https://www.patreon.com/FPGAMiSTer
 
 <p align="center">
 <img src="https://github.com/ArcadeHustle/MiSTer_DrSeussReader/blob/main/ToThink.jpg"><br><br>
