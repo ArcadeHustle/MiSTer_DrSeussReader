@@ -22,7 +22,6 @@ Archive:  main.zip
    creating: MiSTer_DrSeussReader-main/CatsQuizzer/
 ...
 /media/fat# cd MiSTer_DrSeussReader-main
-/media/fat/MiSTer_DrSeussReader-main#
 /media/fat/MiSTer_DrSeussReader-main# ./install.sh
 ```
 
