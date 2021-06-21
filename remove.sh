@@ -1,1 +1,1 @@
-rm -rf /media/fat/CatsQuizzer/ /media/fat/McElligots/ /media/fat/Mulberry/ /media/fat/OnBeyond/ /media/fat/RanTheZoo/ /media/fat/ScrambledEggs/ /media/fat/Scripts/DrSeussBeta.sh /media/fat/main.zip
+rm -rf /media/fat/CatsQuizzer/ /media/fat/McElligots/ /media/fat/Mulberry/ /media/fat/OnBeyond/ /media/fat/RanTheZoo/ /media/fat/ScrambledEggs/ /media/fat/Scripts/DrSeussBeta.sh /media/fat/main.zip /media/fat/MiSTer_DrSeussReader-main/
